@@ -66,7 +66,7 @@ Je suis prête à apporter mes compétences et ma motivation à une équipe dyna
   - [![Selenium](https://img.shields.io/badge/selenium-black?style=for-the-badge&logo=selenium)](https://www.selenium.dev/)
   
 - **CMS:**
--  [![WordPress](https://img.shields.io/badge/wordpress-black?style=for-the-badge&logo=wordpress)](https://wordpress.org/)
+    -  [![WordPress](https://img.shields.io/badge/wordpress-black?style=for-the-badge&logo=wordpress)](https://wordpress.org/)
 
 ### Outils
 [![Canva](https://img.shields.io/badge/canva-black?style=for-the-badge&logo=canva)](https://www.canva.com/)
