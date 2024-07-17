@@ -72,7 +72,6 @@ Je suis prête à apporter mes compétences et ma motivation à une équipe dyna
 [![Canva](https://img.shields.io/badge/canva-black?style=for-the-badge&logo=canva)](https://www.canva.com/)
 [![Visual Studio Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/)
-[![GitLab](https://img.shields.io/badge/GitLab-black?style=for-the-badge&logo=gitlab)](https://gitlab.com/)
 [![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)](https://www.figma.com/)
 [![Trello](https://img.shields.io/badge/Trello-black?style=for-the-badge&logo=trello)](https://trello.com/)
 [![Notion.so](https://img.shields.io/badge/Notion.so-black?style=for-the-badge&logo=notion)](https://www.notion.so/)
