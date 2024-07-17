@@ -46,14 +46,15 @@ Je suis prête à apporter mes compétences et ma motivation à une équipe dyna
   - [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Sahlias)
   
 
-- **Utilisation d'API:**
-  - [![API Platform](https://img.shields.io/badge/api_platform-black?style=for-the-badge&logo=api)](https://github.com/Roselineks)
+- **Tests d'API:**
+  - [![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)](https://www.postman.com/)
 
 - **Outils de Collaboration:**
 
   - [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/Roselineks)
-  - [![GitLab](https://img.shields.io/badge/gitlab-black?style=for-the-badge&logo=gitlab)](https://gitlab.com/)
   - [![Jira](https://img.shields.io/badge/jira-black?style=for-the-badge&logo=jira)](https://www.atlassian.com/software/jira)
+  - [![Discord](https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord)](https://discord.com/)
+
 
 
 - **Design:**
@@ -75,7 +76,6 @@ Je suis prête à apporter mes compétences et ma motivation à une équipe dyna
 [![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)](https://www.figma.com/)
 [![Trello](https://img.shields.io/badge/Trello-black?style=for-the-badge&logo=trello)](https://trello.com/)
 [![Notion.so](https://img.shields.io/badge/Notion.so-black?style=for-the-badge&logo=notion)](https://www.notion.so/)
-[![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)](https://www.postman.com/)
 [![Jira](https://img.shields.io/badge/jira-black?style=for-the-badge&logo=jira)](https://www.atlassian.com/software/jira)
 [![Elementor](https://img.shields.io/badge/elementor-black?style=for-the-badge&logo=elementor)](https://elementor.com/)
 
