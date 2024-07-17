@@ -30,7 +30,7 @@
 
 Actuellement en Préparation opérationnelle à l'emploi au poste de Testeur 
 Je suis à la recherche d'une nouvelle aventure professionnelle.
-Pssionnée par l'amélioration continue et  la qualité du logiciel . 
+Passionnée par l'amélioration continue et  la qualité du logiciel . 
 Je suis prête à apporter mes compétences et ma motivation à une équipe dynamique et innovante
 
 ### Compétences Techniques 💻
