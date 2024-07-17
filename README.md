@@ -44,14 +44,14 @@ Je suis prête à apporter mes compétences et ma motivation à une équipe dyna
 
 - **Environnement DevOps:**
   - [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Sahlias)
-  - [![CI/CD](https://img.shields.io/badge/ci/cd-black?style=for-the-badge&logo=continuous-integration)](https://github.com/Sahlias)
+  
 
 - **Utilisation d'API:**
-  - [![API Platform](https://img.shields.io/badge/api_platform-black?style=for-the-badge&logo=api)](https://github.com/Sahlias)
+  - [![API Platform](https://img.shields.io/badge/api_platform-black?style=for-the-badge&logo=api)](https://github.com/Roselineks)
 
 - **Outils de Collaboration:**
 
-  - [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/Sahlias)
+  - [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/Roselineks)
   - [![GitLab](https://img.shields.io/badge/gitlab-black?style=for-the-badge&logo=gitlab)](https://gitlab.com/)
   - [![Jira](https://img.shields.io/badge/jira-black?style=for-the-badge&logo=jira)](https://www.atlassian.com/software/jira)
 
