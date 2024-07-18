@@ -46,8 +46,12 @@ Je suis prête à apporter mes compétences et ma motivation à une équipe dyna
   - [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Sahlias)
   
 
-- **Tests d'API:**
+- **Gestion des Tests:**
+  - [![Xray](https://img.shields.io/badge/xray-black?style=for-the-badge&logo=x-ray)](https://www.getxray.app/)
+  - [![Squash](https://img.shields.io/badge/squash-black?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NS41MyA0NS41MyI+PHBhdGggZD0iTTExLjQ1IDQ1LjUzYTExLjQ2MSAxMS40NjEgMCAwMS0xMC4xNTMtNi44MjZMMCAzMS43MmE3LjIzNyA3LjIzNyAwIDAwNy4yMzctNy4yMzdjMy4zMiAwIDUuOTI5IDIu
   - [![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)](https://www.postman.com/)
+ 
+
 
 - **Outils de Collaboration:**
 
