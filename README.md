@@ -55,6 +55,8 @@ Je suis prête à apporter mes compétences et ma motivation à une équipe dyna
   - [![Squash](https://img.shields.io/badge/squash-black?style=for-the-badge&logo=squash)](https://www.squashtest.org/)
   - [![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)](https://www.postman.com/)
  
+- **Tests Automatisés:**
+  - [![Selenium](https://img.shields.io/badge/selenium-black?style=for-the-badge&logo=selenium)](https://www.selenium.dev/)
 
 - **Outils de Collaboration:**
 
@@ -62,9 +64,6 @@ Je suis prête à apporter mes compétences et ma motivation à une équipe dyna
   - [![Jira](https://img.shields.io/badge/jira-black?style=for-the-badge&logo=jira)](https://www.atlassian.com/software/jira)
   - [![Discord](https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord)](https://discord.com/)
 
-
-- **Tests Automatiques:**
-  - [![Selenium](https://img.shields.io/badge/selenium-black?style=for-the-badge&logo=selenium)](https://www.selenium.dev/)
   
 - **CMS:**
     -  [![WordPress](https://img.shields.io/badge/wordpress-black?style=for-the-badge&logo=wordpress)](https://wordpress.org/)
