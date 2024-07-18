@@ -44,7 +44,6 @@ Je suis prête à apporter mes compétences et ma motivation à une équipe dyna
 - **Base de données:**
   - [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Sahlias)
   - [![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/Sahlias)
-  - [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://www.docker.com/)
 
     
 - **Environnement DevOps:**
