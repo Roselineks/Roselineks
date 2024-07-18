@@ -73,14 +73,18 @@ Je suis prête à apporter mes compétences et ma motivation à une équipe dyna
     -  [![WordPress](https://img.shields.io/badge/wordpress-black?style=for-the-badge&logo=wordpress)](https://wordpress.org/)
 
 ### Outils
-[![Canva](https://img.shields.io/badge/canva-black?style=for-the-badge&logo=canva)](https://www.canva.com/)
 [![Visual Studio Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/)
-[![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)](https://www.figma.com/)
+[![Jira](https://img.shields.io/badge/jira-black?style=for-the-badge&logo=jira)](https://www.atlassian.com/software/jira)
 [![Trello](https://img.shields.io/badge/Trello-black?style=for-the-badge&logo=trello)](https://trello.com/)
 [![Notion.so](https://img.shields.io/badge/Notion.so-black?style=for-the-badge&logo=notion)](https://www.notion.so/)
-[![Jira](https://img.shields.io/badge/jira-black?style=for-the-badge&logo=jira)](https://www.atlassian.com/software/jira)
+[![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)](https://www.figma.com/)
+[![Canva](https://img.shields.io/badge/canva-black?style=for-the-badge&logo=canva)](https://www.canva.com/)
 [![Elementor](https://img.shields.io/badge/elementor-black?style=for-the-badge&logo=elementor)](https://elementor.com/)
+[![Google Workspace](https://img.shields.io/badge/google%20workspace-black?style=for-the-badge&logo=google)](https://workspace.google.com/)
+[![Office 365](https://img.shields.io/badge/office%20365-black?style=for-the-badge&logo=microsoft-office)](https://www.microsoft.com/microsoft-365)
+
+
 
 
 </p>
