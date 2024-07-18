@@ -80,6 +80,11 @@ Je suis prête à apporter mes compétences et ma motivation à une équipe dyna
 [![Elementor](https://img.shields.io/badge/elementor-black?style=for-the-badge&logo=elementor)](https://elementor.com/)
 [![Google Workspace](https://img.shields.io/badge/google%20workspace-black?style=for-the-badge&logo=google)](https://workspace.google.com/)
 [![Office 365](https://img.shields.io/badge/office%20365-black?style=for-the-badge&logo=microsoft-office)](https://www.microsoft.com/microsoft-365)
+[![Android Studio](https://img.shields.io/badge/android%20studio-black?style=for-the-badge&logo=android)](https://developer.android.com/studio)
+[![VSDC Video Editor](https://img.shields.io/badge/vsdc%20video%20editor-black?style=for-the-badge)](https://www.videosoftdev.com/free-video-editor)
+[![ScreenPal](https://img.shields.io/badge/screenpal-black?style=for-the-badge)](https://www.screenpal.io/)
+[![HandBrake](https://img.shields.io/badge/handbrake-black?style=for-the-badge&logo=handbrake)](https://handbrake.fr/)
+
 
 
 
