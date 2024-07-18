@@ -48,7 +48,7 @@ Je suis prête à apporter mes compétences et ma motivation à une équipe dyna
 
 - **Gestion des Tests:**
   - [![Xray](https://img.shields.io/badge/xray-black?style=for-the-badge&logo=x-ray)](https://www.getxray.app/)
-  - [![Squash](https://img.shields.io/badge/squash-black?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NS41MyA0NS41MyI+PHBhdGggZD0iTTExLjQ1IDQ1LjUzYTExLjQ2MSAxMS40NjEgMCAwMS0xMC4xNTMtNi44MjZMMCAzMS43MmE3LjIzNyA3LjIzNyAwIDAwNy4yMzctNy4yMzdjMy4zMiAwIDUuOTI5IDIu
+  - [![Squash](https://img.shields.io/badge/squash-black?style=for-the-badge&logo=squash)](https://www.squashtest.org/)
   - [![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)](https://www.postman.com/)
  
 
