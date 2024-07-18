@@ -28,7 +28,7 @@
 
 ### Objectif
 
-Actuellement en Préparation opérationnelle à l'emploi au poste de Testeur 
+Actuellement en Préparation opérationnelle à l'emploi au poste de Testeur qualité logiciel
 Je suis à la recherche d'une nouvelle aventure professionnelle.
 Passionnée par l'amélioration continue et  la qualité du logiciel . 
 Je suis prête à apporter mes compétences et ma motivation à une équipe dynamique et innovante
