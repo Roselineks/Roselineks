@@ -36,12 +36,17 @@ Je suis prête à apporter mes compétences et ma motivation à une équipe dyna
 ### Compétences Techniques 💻
 
 
-- 
+ 
+- **Langage:**
+  - [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://www.python.org/)
+
+  
 - **Base de données:**
   - [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Sahlias)
   - [![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/Sahlias)
-  
+  - [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://www.docker.com/)
 
+    
 - **Environnement DevOps:**
   - [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Sahlias)
   
@@ -51,7 +56,6 @@ Je suis prête à apporter mes compétences et ma motivation à une équipe dyna
   - [![Squash](https://img.shields.io/badge/squash-black?style=for-the-badge&logo=squash)](https://www.squashtest.org/)
   - [![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)](https://www.postman.com/)
  
-
 
 - **Outils de Collaboration:**
 
