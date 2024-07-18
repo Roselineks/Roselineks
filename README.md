@@ -60,12 +60,6 @@ Je suis prête à apporter mes compétences et ma motivation à une équipe dyna
   - [![Discord](https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord)](https://discord.com/)
 
 
-
-- **Design:**
-  - [![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)](https://www.figma.com/)
-  - [![Canva](https://img.shields.io/badge/canva-black?style=for-the-badge&logo=canva)](https://www.canva.com/)
-
-
 - **Tests Automatiques:**
   - [![Selenium](https://img.shields.io/badge/selenium-black?style=for-the-badge&logo=selenium)](https://www.selenium.dev/)
   
