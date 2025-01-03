@@ -5,16 +5,16 @@
     <b>Bienvenue sur ma page !</b><br><br>
     <i>
         Je suis Roseline.<br>
-       Je suis Testeur qualité logiciel 
-       à la recherche de nouvelles opportunités professionnelle.<br>
-         N'hésitez pas à me contacter!<br>📲📩
+       Testeur qualité logiciel 
+       pationnée du numérique,<br>
+         enthousiaste et toujours en quête de découvertes!<br>📲📩
     </i><br>
   
 
 ### Contact
 
 - 📧 Email: [kashitam@gmail.com](mailto:kashitam@gmail.com)
-- ☎ Téléphone: 07 52 50 32 52
+- ☎ Téléphone: 07 52 50 32 5à
 
 ### Profil LinkedIn
 
@@ -28,10 +28,9 @@
 
 ### Objectif
 
-Actuellement en Préparation opérationnelle à l'emploi au poste de Testeur qualité logiciel
-Je suis à la recherche d'une nouvelle aventure professionnelle.
-Passionnée par l'amélioration continue et  la qualité du logiciel . 
-Je suis prête à apporter mes compétences et ma motivation à une équipe dynamique et innovante
+Formée aux tests automatisés et possédant des compétences en tests manuels, gestion de
+projet, et digitalisation. Méthodique et rigoureuse, je m'adapte facilement au contexte projet des
+clients
 
 ### Compétences Techniques 💻
 
